@@ -1,0 +1,15 @@
+/*
+* wpf7apb css
+*/
+
+.wpcf7a-progress-btn{
+	display: inline-block;
+    height: 10px;
+    width: 30px;
+    background: transparent;
+    border: 1px solid #365f85;
+    box-shadow: none !important;
+}
+.wpcf7a-fill{
+	background-color: #365f85;
+}
